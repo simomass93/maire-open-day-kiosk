@@ -3,7 +3,7 @@
     "title": "Barbara Picutti Creative Contest",
     "subtitle": "TOOL TALES",
     "layout": "contest",
-    "headerImageSrc": "/images/header-tooltales.png",
+    "headerImageSrc": "images/header-tooltales.png",
     "logoVariant": "fondazione-mare",
     "tracks": [
   { "id": 1, "title": "GLI ORIZZONTI DEL MARE: LA STORIA DELL'ANEMOMETRO DI FAMIGLIA", "title_en": "HORIZONS OF THE SEA: THE STORY OF THE FAMILY ANEMOMETER", "author": "Stefan Ario Giuffrè", "audioSrc": "/audio/barbara/tooltales/1.mp3", "coverImageSrc": "/images/covers/contest/tooltales/1.png" },

@@ -1,0 +1,121 @@
+{
+  "toolTales": {
+    "title": "Barbara Picutti Creative Contest",
+    "subtitle": "TOOL TALES",
+    "layout": "contest",
+    "headerImageSrc": "/images/header-tooltales.png",
+    "logoVariant": "fondazione-mare",
+    "tracks": [
+  { "id": 1, "title": "GLI ORIZZONTI DEL MARE: LA STORIA DELL'ANEMOMETRO DI FAMIGLIA", "title_en": "HORIZONS OF THE SEA: THE STORY OF THE FAMILY ANEMOMETER", "author": "Stefan Ario Giuffrè", "audioSrc": "/audio/barbara/tooltales/1.mp3", "coverImageSrc": "/images/covers/contest/tooltales/1.png" },
+  { "id": 2, "title": "L'ANEMOMETRO POLEMICO", "title_en": "THE ARGUMENTATIVE ANEMOMETER", "author": "Francesca Lubelli, Giuseppe Ungaro", "audioSrc": "/audio/barbara/tooltales/Tool Tales_L'anemometro polemico_Francesca Lubelli e Giuseppe Ungaro.mp3", "coverImageSrc": "/images/covers/contest/tooltales/2.png" },
+  { "id": 3, "title": "LA DANZA DEL DESERTO", "title_en": "THE DESERT DANCE", "author": "Massimo Dapoto", "audioSrc": "/audio/barbara/tooltales/Tool Tales_La Danza del Deserto_Massimo Dapoto.mp3", "coverImageSrc": "/images/covers/contest/tooltales/3.png" },
+  { "id": 4, "title": "LA CALIBRAZIONE DEL TEMPO", "title_en": "THE CALIBRATION OF TIME", "author": "Fabio Sessi", "audioSrc": "/audio/barbara/tooltales/Tool Tales_La calibrazione del tempo_Fabio Sessi.mp3", "coverImageSrc": "/images/covers/contest/tooltales/4.png" },
+  { "id": 5, "title": "L'ULTIMA MISURA. RACCONTRO BREVE", "title_en": "THE LAST MEASUREMENT. SHORT STORY", "author": "Leo Gentilini", "audioSrc": "/audio/barbara/tooltales/Tool Tales_L'ultima misura_Leo Gentilini.mp3", "coverImageSrc": "/images/covers/contest/tooltales/5.png" },
+  { "id": 6, "title": "FRITZ HABER: L'UOMO E LA STORIA", "title_en": "FRITZ HABER: THE MAN AND HISTORY", "author": "Alessandro Calisse", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Fritz Haber - L'uomo e la storia_Alessandro Calisse.mp3", "coverImageSrc": "/images/covers/contest/tooltales/6.png" },
+  { "id": 7, "title": "IL MANOMETRO STARATO", "title_en": "THE FAULTY PRESSURE GAUGE", "author": "Andrea Capponi", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Il Manometro starato_Andrea Capponi.mp3", "coverImageSrc": "/images/covers/contest/tooltales/7.png" },
+  { "id": 8, "title": "IL PARADOSSO DELLA PRESSIONE QUANTISTICA", "title_en": "THE QUANTUM PRESSURE PARADOX", "author": "Valter Carrolo", "audioSrc": "/audio/barbara/tooltales/Tool Tales_The Quantum Pressure Paradox_Valter Carrolo.mp3", "coverImageSrc": "/images/covers/contest/tooltales/8.png" },
+  { "id": 9, "title": "IL MANOMETRO", "title_en": "THE MANOMETER", "author": "Pino Colombi", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Il Manometro_Pino Colombi.mp3", "coverImageSrc": "/images/covers/contest/tooltales/9.png" },
+  { "id": 10, "title": "BICICLETTE, PLASTICA E ALTRO", "title_en": "BICYCLES, PLASTICS AND OTHER THINGS", "author": "Michele Forlani", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Biciclette, plastica e altro_Michele Forlani.mp3", "coverImageSrc": "/images/covers/contest/tooltales/10.png" },
+  { "id": 11, "title": "STORIA DI UN MANOMETRO", "title_en": "THE STORY OF A MANOMETER", "author": "Gabriele Pasini", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Storia di un Manometro_Gabriele Pasini.mp3", "coverImageSrc": "/images/covers/contest/tooltales/11.png" },
+  { "id": 12, "title": "UN TEMA DI MAKE TO INSPIRE: MANOMETRO ANALOGICO", "title_en": "A MAKE TO INSPIRE THEME: ANALOG PRESSURE GAUGE", "author": "Anilkumar Jha", "audioSrc": "/audio/barbara/tooltales/Tool Tales_A Make to Inspire Theme_Analog Pressure Gauge_Anilkumar Jha.mp3", "coverImageSrc": "/images/covers/contest/tooltales/12.png" },
+  { "id": 13, "title": "L'ANALOGICO CHE TI SALVA IL TEST", "title_en": "THE ANALOG TEST-SAVER", "author": "Maurizio Rigolio", "audioSrc": "/audio/barbara/tooltales/Tool Tales_L'analogico che ti salva il test_Maurizio Rigolio.mp3", "coverImageSrc": "/images/covers/contest/tooltales/13.png" },
+  { "id": 14, "title": "LOTTO 11", "title_en": "LOT 11", "author": "Antonio De Simone", "audioSrc": "/audio/barbara/tooltales/Tool Tales_LOTTO 11_Antonio De Simone.mp3", "coverImageSrc": "/images/covers/contest/tooltales/14.png" },
+  { "id": 15, "title": "CALIBRARE IN SINTESI", "title_en": "THE SYNTHESIS OF CALIBRATION", "author": "Fabio Ferrari", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Calibrare in sintesi_Fabio Ferrari.mp3", "coverImageSrc": "/images/covers/contest/tooltales/15.png" },
+  { "id": 16, "title": "DAL TRAMONTO ALL'ALBA", "title_en": "FROM DUSK TO DAWN", "author": "Nilesh Prabhakar Joshi", "audioSrc": "/audio/barbara/tooltales/Tool Tales_From Dusk to Dawn_Nilesh Prabhakar Joshi.mp3", "coverImageSrc": "/images/covers/contest/tooltales/16.png" },
+  { "id": 17, "title": "RICORDI D'INFANZIA ED EVOLUZIONE TECNOLOGICA", "title_en": "CHILDHOOD MEMORIES AND TECHNOLOGICAL EVOLUTION", "author": "Giuseppe Derrico", "audioSrc": "/audio/barbara/tooltales/17.mp3", "coverImageSrc": "/images/covers/contest/tooltales/17.png" },
+  { "id": 18, "title": "TRE ROSE ROSSE", "title_en": "THREE RED ROSES", "author": "Carlo Boniardi", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Tre rose rosse_Carlo Boniardi.mp3", "coverImageSrc": "/images/covers/contest/tooltales/18.png" },
+  { "id": 19, "title": "LA CENTRALE DI AL NASSERIEH E LA BANCONOTA SIRIANA DA 200 POUND", "title_en": "THE AL NASSERIEH POWER STATION AND THE 200 POUND SYRIAN BANKNOTE", "author": "Umberto Franzi", "audioSrc": "/audio/barbara/tooltales/19.mp3", "coverImageSrc": "/images/covers/contest/tooltales/19.png" },
+  { "id": 20, "title": "PLASTICO DI IMPIANTO - PRECURSORE DEL MODELLO 3D", "title_en": "MODEL OF A PLANT - THE PRECURSOR TO THE 3D MODEL", "author": "Alessandro Mistarini", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Plastico di impianto - Precursore del modello 3D_Alessandro Mistarini.mp3", "coverImageSrc": "/images/covers/contest/tooltales/20.png" },
+  { "id": 21, "title": "LO STABILIMENTO FIAT DI MELFI E IL SISTEMA PRODAS", "title_en": "THE FIAT PLANT IN MELFI AND THE PRODAS SYSTEM", "author": "Alberto Cavallo, Marco Cameletti", "audioSrc": "/audio/barbara/tooltales/21.mp3", "coverImageSrc": "/images/covers/contest/tooltales/21.png" },
+  { "id": 22, "title": "UNA STORIA VERA DI STEFANO MANDAS SUL MODELLO ARCHITETTONICO: STABILIMENTO DI PRODUZIONE FIAT - MELFI (PZ)", "title_en": "A TRUE STORY FROM STEFANO MANDAS RELATED TO THE ARCHITECTURAL MODEL: FIAT MANUFACTURING PLANT MELFI (PZ)", "author": "Stefano Mandas", "audioSrc": "/audio/barbara/tooltales/22.mp3", "coverImageSrc": "/images/covers/contest/tooltales/22.png" },
+  { "id": 23, "title": "REGOLO CIRCOLARE PER CALCOLI DI CEMENTO", "title_en": "CIRCULAR RULER FOR CONCRETE CALCULATIONS", "author": "Carlo Masetti", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Regolo circolare per calcoli di cemento_Carlo Masetti.mp3", "coverImageSrc": "/images/covers/contest/tooltales/23.png" },
+  { "id": 24, "title": "RICORDI SOTTOSOPRA (PER COLPA DEL CANNOCCHIALE ASTRONOMICO)", "title_en": "UPSIDE-DOWN MEMORIES (ON ACCOUNT OF THE ASTRONOMICAL TELESCOPE)", "author": "Marco D'Arcangelis", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Ricordi sottosopra (per colpa del cannocchiale astronomico)_Marco D'Arcangelis.mp3", "coverImageSrc": "/images/covers/contest/tooltales/24.png" },
+  { "id": 25, "title": "IL TEODOLITE TRACCIATO DAL VETRO", "title_en": "GLASS-TRACED THEODOLITE", "author": "Madhura Joshi", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Glass-Traced Theodolite_Madhura Joshi.mp3", "coverImageSrc": "/images/covers/contest/tooltales/25.png" },
+  { "id": 26, "title": "TEODOLITE", "title_en": "THEODOLITE", "author": "Shahnawaz Mapari", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Theodolite_Shahnawaz Mapari.mp3", "coverImageSrc": "/images/covers/contest/tooltales/26.png" },
+  { "id": 27, "title": "TEODOLITE - UN RACCONTO ROMANTICO", "title_en": "THEODOLITE - A ROMANTIC TALE", "author": "Anitha Preman", "audioSrc": "/audio/barbara/tooltales/Tool Tales_Theodolite - A Romantic Tale_Anitha Preman.mp3", "coverImageSrc": "/images/covers/contest/tooltales/27.png" },
+  { "id": 28, "title": "2168", "title_en": "2168", "author": "Edoardo Disarò", "audioSrc": "/audio/barbara/tooltales/28.mp3", "coverImageSrc": "/images/covers/contest/tooltales/28.png" },
+  { "id": 29, "title": "UMIDITÀ, BENESSERE E CULTURA", "title_en": "HUMIDITY, WELL-BEING AND CULTURE", "author": "Elio Strepparola", "audioSrc": "/audio/barbara/tooltales/29.mp3", "coverImageSrc": "/images/covers/contest/tooltales/29.png" }
+]
+  },
+  "routeTales": {
+    "title": "Barbara Picutti Creative Contest",
+    "subtitle": "ROUTE TALES",
+    "layout": "contest",
+    "headerImageSrc": "/images/header-routetales.png",
+    "logoVariant": "fondazione-mare",
+    "tracks": [
+       
+  { "id": 1, "title": "MACCHINE NEL TEMPO", "title_en": "MACHINES IN TIME", "author": "Michele Forlani", "audioSrc": "/audio/barbara/routetales/Route Tales_MACCHINE NEL TEMPO_Michele Forlani.mp3", "coverImageSrc": "/images/covers/contest/routetales/1.png" },
+  { "id": 2, "title": "MOUNTAIN & MANKIND", "title_en": "MONTAGNA E UMANITÀ", "author": "Arun Balram Pandey", "audioSrc": "/audio/barbara/routetales/Route Tales_MOUNTAIN & MANKIND_Arun Balram Pandey.mp3", "coverImageSrc": "/images/covers/contest/routetales/2.png" },
+  { "id": 3, "title": "BINARI", "title_en": "TRACKS", "author": "Chiara Ardore", "audioSrc": "/audio/barbara/routetales/Route Tales_BINARI_Chiara Ardore.mp3", "coverImageSrc": "/images/covers/contest/routetales/3.png" },
+  { "id": 4, "title": "TO WALK ON AN ORANGE SUNSET", "title_en": "CAMMINARE IN UN TRAMONTO ARANCIONE", "author": "Enes Kilinc", "audioSrc": "/audio/barbara/routetales/Route Tales_TO WALK ON AN ORANGE SUNSET_Enes Kilinc.mp3", "coverImageSrc": "/images/covers/contest/routetales/4.png" },
+  { "id": 5, "title": "UN LIBRO PORTA ALTROVE", "title_en": "A BOOK TRANSPORTS YOU", "author": "Carlo Boniardi", "audioSrc": "/audio/barbara/routetales/Route Tales_UN LIBRO PORTA ALTROVE_Carlo Boniardi.mp3", "coverImageSrc": "/images/covers/contest/routetales/5.png" },
+  { "id": 6, "title": "SCOSSE DI MEMORIA", "title_en": "JOLTS OF MEMORY", "author": "Federica Messina", "audioSrc": "/audio/barbara/routetales/Route Tales_SCOSSE DI MEMORIA_Federica Messina.mp3", "coverImageSrc": "/images/covers/contest/routetales/6.png" },
+  { "id": 7, "title": "NEL DISORDINE DEI RICORDI, NELL'ORDINE DEL CUORE", "title_en": "IN THE DISORDER OF MEMORIES, IN THE ORDER OF THE HEART", "author": "Annalisa Moretti", "audioSrc": "/audio/barbara/routetales/7.mp3", "coverImageSrc": "/images/covers/contest/routetales/7.png" },
+  { "id": 8, "title": "IL FILO INVISIBILE", "title_en": "THE INVISIBLE THREAD", "author": "Gabriele Pasini", "audioSrc": "/audio/barbara/routetales/Route Tales_IL FILO INVISIBILE_Gabriele Pasini.mp3", "coverImageSrc": "/images/covers/contest/routetales/8.png" },
+  { "id": 9, "title": "QUARTA DIMENSIONE (IO E LA GIULIA)", "title_en": "FOURTH DIMENSION (GIULIA AND ME)", "author": "Leo Gentilini", "audioSrc": "/audio/barbara/routetales/Route Tales_QUARTA DIMENSIONE (IO E LA GIULIA)_Leo Gentilini.mp3", "coverImageSrc": "/images/covers/contest/routetales/9.png" },
+  { "id": 10, "title": "SOPRA E SOTTO L'APPENNINO", "title_en": "ABOVE AND BELOW THE APPENNINES", "author": "Michele Pantaleo", "audioSrc": "/audio/barbara/routetales/10.mp3", "coverImageSrc": "/images/covers/contest/routetales/10.png" },
+  { "id": 11, "title": "A NOSTALGIC JOURNEY TO THE PAST", "title_en": "UN VIAGGIO NOSTALGICO NEL PASSATO", "author": "Anitha Prem", "audioSrc": "/audio/barbara/routetales/11.mp3", "coverImageSrc": "/images/covers/contest/routetales/11.png" },
+  { "id": 12, "title": "BELLA 'MBRIANA", "title_en": "BELLA 'MBRIANA", "author": "Ivana Mennella", "audioSrc": "/audio/barbara/routetales/12.mp3", "coverImageSrc": "/images/covers/contest/routetales/12.png" },
+  { "id": 13, "title": "SYMMETRY IS NOT FOR FOOLS", "title_en": "LA SIMMETRIA NON È PER GLI SCIOCCHI", "author": "Madhura Vishwanath lyer", "audioSrc": "/audio/barbara/routetales/13.mp3", "coverImageSrc": "/images/covers/contest/routetales/13.png" },
+  { "id": 14, "title": "UROBORO", "title_en": "UROBORO", "author": "Sebastian Collavini", "audioSrc": "/audio/barbara/routetales/Route Tales_UROBORO_Sebastian Collavini.mp3", "coverImageSrc": "/images/covers/contest/routetales/14.png" },
+  { "id": 15, "title": "MEMORABLE JOURNEY OF THE DEPUTATION", "title_en": "MEMORABILE VIAGGIO DELLA DEPUTAZIONE", "author": "Abhay B. Kulkarni", "audioSrc": "/audio/barbara/routetales/Route Tales_MEMORABLE JOURNEY OF THE DEPUTATION_Abhay B. Kulkarni.mp3", "coverImageSrc": "/images/covers/contest/routetales/15.png" },
+  { "id": 16, "title": "EMOZIONI VISSUTE PRESSO IL SITO MONTEDISON - PORTO MARGHERA", "title_en": "IMPRESSIONS OF THE EXPERIENCE AT MONTEDISON - PORTO MARGHERA", "author": "Stefano Frau", "audioSrc": "/audio/barbara/routetales/16.mp3", "coverImageSrc": "/images/covers/contest/routetales/16.png" },
+  { "id": 17, "title": "GDAŃSK (O IL MIO PAPÀ)", "title_en": "GDAŃSK (OR MY DAD)", "author": "Ilaria Pergola", "audioSrc": "/audio/barbara/routetales/17.mp3", "coverImageSrc": "/images/covers/contest/routetales/17.png" },
+  { "id": 18, "title": "CERCANDOCI", "title_en": "LOOKING FOR US", "author": "Francesca Lubelli", "audioSrc": "/audio/barbara/routetales/Route Tales_CERCANDOCI_Francesca Lubelli.mp3", "coverImageSrc": "/images/covers/contest/routetales/18.png" },
+  { "id": 19, "title": "AMORE DISTILLATO", "title_en": "DISTILLED LOVE", "author": "Luca Sala", "audioSrc": "/audio/barbara/routetales/Route Tales_AMORE DISTILLATO_Luca Sala.mp3", "coverImageSrc": "/images/covers/contest/routetales/19.png" },
+  { "id": 20, "title": "MAIRE SU MARTE", "title_en": "MAIRE ON MARS", "author": "Alberto Cavallo", "audioSrc": "/audio/barbara/routetales/Route Tales_MAIRE SU MARTE_Alberto Cavallo.mp3", "coverImageSrc": "/images/covers/contest/routetales/20.png" },
+  { "id": 21, "title": "MENTORSHIP MATTERS: A JOURNEY OF GROWTH AND SUCCESS", "title_en": "L'IMPORTANZA DELLA MENTORSHIP: UN VIAGGIO DI CRESCITA E SUCCESSO", "author": "Roshni Tankha Sankhe", "audioSrc": "/audio/barbara/routetales/Route Tales_MENTORSHIP MATTERS - A JOURNEY OF GROWTH AND SUCCESS_Roshni Tankha Sankhe.mp3", "coverImageSrc": "/images/covers/contest/routetales/21.png" },
+  { "id": 22, "title": "TALCHER'S LEGACY: A JOURNEY OF DETERMINATION AND SUCCESS", "title_en": "L'EREDITÀ DI TALCHER: UN VIAGGIO DI DETERMINAZIONE E SUCCESSO", "author": "Shahnawaz Mapari", "audioSrc": "/audio/barbara/routetales/Route Tales_TALCHER'S LEGACY - A JOURNEY OF DETERMINATION AND SUCCESS_Shahnawaz Mapari.mp3", "coverImageSrc": "/images/covers/contest/routetales/22.png" },
+  { "id": 23, "title": "LE OPZIONI DI MARIO: PRIMA, DURANTE E DOPO MIRAFIORI", "title_en": "MARIO'S OPTIONS: BEFORE, DURING AND AFTER MIRAFIORI", "author": "Francesca Rabino", "audioSrc": "/audio/barbara/routetales/Route Tales_LE OPZIONI DI MARIO - PRIMA, DURANTE E DOPO MIRAFIORI_Francesca Rabino.mp3", "coverImageSrc": "/images/covers/contest/routetales/23.png" },
+  { "id": 24, "title": "ECLISSI AD AL JUBAYL", "title_en": "ECLIPSE AT AL JUBAYL", "author": "Alessandro Calisse", "audioSrc": "/audio/barbara/routetales/Route Tales_ECLISSI AD AL JUBAYL_Alessandro Calisse.mp3", "coverImageSrc": "/images/covers/contest/routetales/24.png" },
+  { "id": 25, "title": "IL LOOP REACTOR", "title_en": "THE LOOP REACTOR", "author": "Luigi Ceccherini", "audioSrc": "/audio/barbara/routetales/Route Tales_IL LOOP REACTOR_Luigi Ceccherini.mp3", "coverImageSrc": "/images/covers/contest/routetales/25.png" },
+  { "id": 26, "title": "TRA CORTECCIA E IPPOCAMPO", "title_en": "BETWEEN CEREBRAL CORTEX AND HIPPOCAMPUS", "author": "Valentina Grieco", "audioSrc": "/audio/barbara/routetales/Route Tales_TRA CORTECCIA E IPPOCAMPO_Valentina Grieco.mp3", "coverImageSrc": "/images/covers/contest/routetales/26.png" },
+  { "id": 27, "title": "LA CINQUECENTODICIANNOVE DI D'ANNUNZIO", "title_en": "THE CINQUECENTODICIANNOVE BY D'ANNUNZIO", "author": "Marco D'Arcangelis", "audioSrc": "/audio/barbara/routetales/27.mp3", "coverImageSrc": "/images/covers/contest/routetales/27.png" },
+  { "id": 28, "title": "IL FASCINO DELL'OMAN", "title_en": "OMAN FASCINATION", "author": "Paola Lancia", "audioSrc": "/audio/barbara/routetales/28.mp3", "coverImageSrc": "/images/covers/contest/routetales/28.png" },
+  { "id": 29, "title": "LOVE IS A JOURNEY!", "title_en": "L'AMORE È UN VIAGGIO", "author": "Nilesh Prabhakar Joshi", "audioSrc": "/audio/barbara/routetales/Route Tales_LOVE IS A JOURNEY!_Nilesh Prabhakar Joshi.mp3", "coverImageSrc": "/images/covers/contest/routetales/29.png" },
+  { "id": 30, "title": "UFO? NO, UFA", "title_en": "UFO? NO, UFA", "author": "Maurizio Rigolio", "audioSrc": "/audio/barbara/routetales/Route Tales_UFO, NO, UFA_Maurizio Rigolio.mp3", "coverImageSrc": "/images/covers/contest/routetales/30.png" },
+  { "id": 31, "title": "LO SPAZIO DI UN ATTIMO", "title_en": "THE SPACE OF A MOMENT", "author": "Mirko Avakumović", "audioSrc": "/audio/barbara/routetales/31.mp3", "coverImageSrc": "/images/covers/contest/routetales/31.png" },
+  { "id": 32, "title": "VOLONTARIA SERENDIPITÀ", "title_en": "VOLUNTARY SERENDIPITY", "author": "Fabio Ferrari", "audioSrc": "/audio/barbara/routetales/32.mp3", "coverImageSrc": "/images/covers/contest/routetales/32.png" },
+  { "id": 33, "title": "L'AZOTO", "title_en": "NITROGEN", "author": "Edoardo Disarò", "audioSrc": "/audio/barbara/routetales/33.mp3", "coverImageSrc": "/images/covers/contest/routetales/33.png" },
+  { "id": 34, "title": "TRAVEL THROUGH MEMORIES", "title_en": "VIAGGIO ATTRAVERSO I RICORDI", "author": "Swapnil Patil", "audioSrc": "/audio/barbara/routetales/Route Tales_TRAVEL THROUGH MEMORIES_Swapnil Patil.mp3", "coverImageSrc": "/images/covers/contest/routetales/34.png" },
+  { "id": 35, "title": "IL RIFLESSO DEL SIPARIO", "title_en": "THE CURTAIN'S REFLECTION", "author": "Paola Luciani", "audioSrc": "/audio/barbara/routetales/Route Tales_IL RIFLESSO DEL SIPARIO_Paola Luciani.mp3", "coverImageSrc": "/images/covers/contest/routetales/35.png" },
+  { "id": 36, "title": "TEAMS CHAT", "title_en": "TEAMS CHAT", "author": "Valter Carrolo", "audioSrc": "/audio/barbara/routetales/Route Tales_TEAMS CHAT_Valter Carrolo.mp3", "coverImageSrc": "/images/covers/contest/routetales/36.png" },
+  { "id": 37, "title": "ACCANTO ALLA FOTO SUL MURO", "title_en": "NEXT TO THE PHOTO ON THE WALL", "author": "Michele Dabergami", "audioSrc": "/audio/barbara/routetales/Route Tales_ACCANTO ALLA FOTO SUL MURO_Michele Dabergami.mp3", "coverImageSrc": "/images/covers/contest/routetales/37.png" }
+]
+
+  },
+  "podcast": {
+    "title": "Podcast",
+    "subtitle": "This is Maire!",
+    "layout": "podcast",
+    "headerImageSrc": "/images/header-podcast.png",
+    "logoVariant": "thismaire",
+    "tracks": [
+      { "id": 1, "title": "LA STORIA DI MAIRE", "title_en": "THE STORY OF MAIRE", "author": "This is Maire", "audioSrc": "/audio/maire/EP1_THIS IS MAIRE_La Storia di Maire.mp3", "coverImageSrc": "/images/covers/podcast/1.png" },
+      { "id": 2, "title": "IMPIANTI DEL FUTURO", "title_en": "FUTURE PROOF PLANTS", "author": "This is Maire", "audioSrc": "/audio/maire/EP2_THIS IS MAIRE_Impianti per il futuro.mp3", "coverImageSrc": "/images/covers/podcast/1.png" },
+      { "id": 3, "title": "TECNOLOGIE SOSTENIBILI", "title_en": "SUSTAINABLE TECHNOLOGY", "author": "This is Maire", "audioSrc": "/audio/maire/EP3_THIS IS MAIRE_Tecnologie sostenibili.mp3", "coverImageSrc": "/images/covers/podcast/1.png" },
+      { "id": 4, "title": "INCLUSIONE E IMPATTO", "title_en": "INCLUSION AND IMPACT", "author": "This is Maire", "audioSrc": "/audio/maire/EP4_THIS IS MAIRE_Inclusione e Impatto.mp3", "coverImageSrc": "/images/covers/podcast/1.png" }
+    ]
+  },
+  "ingenium": {
+    "title": "in-Genium",
+    "subtitle": "Futuro Anteriore",
+    "layout": "single-column",
+    "headerImageSrc": "/images/header-ingenium.png",
+    "logoVariant": "thismaire",
+    "tracks": [
+      { "id": 1, "title": "Futuro Anteriore", "title_en": "", "author": "Jacopo Veneziani", "audioSrc": "audio/ingenium/1.mp3", "coverImageSrc": "/images/covers/ingenium/1.png" }
+    ]
+  },
+  "conversation": {
+    "title": "In Conversazione",
+    "subtitle": "con Amalia Ercoli Finzi",
+    "layout": "single-column",
+    "headerImageSrc": "/images/header-conversation.png",
+    "logoVariant": "thismaire",
+    "tracks": [
+      { "id": 1, "title": "CHE RUMORE FA IL SOFFITTO DI CRISTALLO CHE SI INFRANGE", "title_en": "", "author": "Amalia Ercoli Finzi", "audioSrc": "/audio/rumore/1.mp3", "coverImageSrc": "/images/covers/conversation/1.png" }
+    ]
+  }
+}

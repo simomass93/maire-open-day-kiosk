@@ -3,10 +3,10 @@
     "title": "Barbara Picutti Creative Contest",
     "subtitle": "TOOL TALES",
     "layout": "contest",
-    "headerImageSrc": "/images/header-tooltales.png",
+    "headerImageSrc": "images/header-tooltales.png",
     "logoVariant": "fondazione-mare",
     "tracks": [
-  { "id": 1, "title": "GLI ORIZZONTI DEL MARE: LA STORIA DELL'ANEMOMETRO DI FAMIGLIA", "title_en": "HORIZONS OF THE SEA: THE STORY OF THE FAMILY ANEMOMETER", "author": "Stefan Ario Giuffrè", "audioSrc": "/audio/barbara/tooltales/1.mp3", "coverImageSrc": "/images/covers/contest/tooltales/1.png" },
+  { "id": 1, "title": "GLI ORIZZONTI DEL MARE: LA STORIA DELL'ANEMOMETRO DI FAMIGLIA", "title_en": "HORIZONS OF THE SEA: THE STORY OF THE FAMILY ANEMOMETER", "author": "Stefan Ario Giuffrè", "audioSrc": "audio/barbara/tooltales/1.mp3", "coverImageSrc": "images/covers/contest/tooltales/1.png" },
   { "id": 2, "title": "L'ANEMOMETRO POLEMICO", "title_en": "THE ARGUMENTATIVE ANEMOMETER", "author": "Francesca Lubelli, Giuseppe Ungaro", "audioSrc": "/audio/barbara/tooltales/Tool Tales_L'anemometro polemico_Francesca Lubelli e Giuseppe Ungaro.mp3", "coverImageSrc": "/images/covers/contest/tooltales/2.png" },
   { "id": 3, "title": "LA DANZA DEL DESERTO", "title_en": "THE DESERT DANCE", "author": "Massimo Dapoto", "audioSrc": "/audio/barbara/tooltales/Tool Tales_La Danza del Deserto_Massimo Dapoto.mp3", "coverImageSrc": "/images/covers/contest/tooltales/3.png" },
   { "id": 4, "title": "LA CALIBRAZIONE DEL TEMPO", "title_en": "THE CALIBRATION OF TIME", "author": "Fabio Sessi", "audioSrc": "/audio/barbara/tooltales/Tool Tales_La calibrazione del tempo_Fabio Sessi.mp3", "coverImageSrc": "/images/covers/contest/tooltales/4.png" },
